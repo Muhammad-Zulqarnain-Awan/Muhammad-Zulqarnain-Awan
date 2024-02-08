@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zulqarnain Awan.</h1>
-<h3 align="center">A passionate DevOps Engineer and aspire cross-platform flutter developer.</h3>
+<h3 align="center">A passionate DevOps Engineer and aspire software engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-zulqarnain-awan&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-zulqarnain-awan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-zulqarnain-awan" alt="muhammad-zulqarnain-awan" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently improving myself in **Software Engineering**
 
 - 💬 Ask me about **DevOps, Software Development, Docker, Jenkins, Git and GitHub, Python**
 
